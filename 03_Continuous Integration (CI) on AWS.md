@@ -1,3 +1,5 @@
+NOTE: AWS has ceased onboarding new customers to AWS CodeCommit as of July 25, 2024. This means that while existing users can continue to use the service, no new accounts can create CodeCommit repositories.
+
 ![image](https://github.com/user-attachments/assets/fc7ac995-6cad-4797-8988-311cc6add283)
 
 
